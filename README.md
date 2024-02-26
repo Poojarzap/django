@@ -2,11 +2,11 @@
 Learnt from telusko yt channel
 
 # Migration for database
-python manage.py makemigrations
-python manage.py sqlmigrate travello 0001
-python manage.py migrate
+python manage.py makemigrations <br>
+python manage.py sqlmigrate travello 0001 <br>
+python manage.py migrate <br>
 
 # Super User
-Name : pooja
-pass : 123
-mail : pooja@gmail.com 
+Name : pooja <br>
+pass : 123 <br>
+mail : pooja@gmail.com <br>
